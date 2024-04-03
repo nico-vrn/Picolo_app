@@ -7,6 +7,7 @@
 </head>
 <body onload="init()">
     <div id="all">
+        <h1>Indiquez vos prénoms : </h1>
         <input type="text" id="name">
         <img src="" alt="">
     </div>
